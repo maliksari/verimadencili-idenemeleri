@@ -1,0 +1,1 @@
+Uygulamarı Diyabet veri seti üzerinde gerçekleştirilmiştir
